@@ -105,7 +105,6 @@ Every `[placeholder]` in `paper_draft.md` maps to a specific value in the analys
 | Physician review + revision | 1–2 weeks |
 | **Realistic submission timeline** | **5–7 weeks from today** |
 
-Colab free tier typically gives ~3–4 hour sessions before disconnecting for idleness and ~12 hours maximum. The resume logic handles disconnects gracefully.
 
 **Alternative: Kaggle notebooks.** Kaggle gives 30 GPU-hours/week on T4 x2 or P100. If you're hitting Colab session limits, Kaggle is a better venue for this workload — same code, different platform.
 
