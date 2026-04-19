@@ -13,7 +13,7 @@ This is the zero-cost variant. Everything runs locally on Colab's free T4 GPU us
 | Paper angle | Benchmarking frontier APIs | **Open-source, privacy-preserving, reproducible** |
 | Reviewer reaction | "Did you try larger models?" | "Excellent, we can reproduce this on-premise" |
 
-The local version is not a weaker paper — it's a *differently-framed* paper. Privacy-preserving local LLMs in clinical settings is a hot topic at AIIM and JAMIA right now. Lean into the framing.
+
 
 ## Files
 
