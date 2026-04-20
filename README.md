@@ -1,6 +1,6 @@
 # CDM Guideline-Adherence Study — Zero-Cost Execution Guide
 
-This is the zero-cost variant. Everything runs locally on Colab's free T4 GPU using open-source models. **No API keys. No credit card. No money.**
+This is the zero-cost variant. Everything runs locally on Colab's free T4 GPU using open-source models. **No API keys. No cost.**
 
 ## The trade-off you're accepting
 
